@@ -75,9 +75,9 @@ User chọn 1 option
 V-AI trả lời ngắn, focused, có nút CTA ("Xem trên bản đồ" / "Đặt bàn")
 ```
 
-**Thêm gì:** quick-reply buttons sau câu hỏi mơ hồ, CTA button trong kết quả
-**Bớt gì:** bỏ đoạn văn dài generic không actionable
-**Đổi gì:** từ "assume rồi trả lời" → "hỏi lại rồi mới trả lời"
+- **Thêm gì:** quick-reply buttons sau câu hỏi mơ hồ, CTA button trong kết quả
+- **Bớt gì:** bỏ đoạn văn dài generic không actionable
+- **Đổi gì:** từ "assume rồi trả lời" → "hỏi lại rồi mới trả lời"
 
 ---
 
