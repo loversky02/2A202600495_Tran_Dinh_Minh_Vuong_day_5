@@ -1,0 +1,12 @@
+# Kiro IDE files
+.kiro/
+
+# Sensitive / personal notes
+note1.txt
+
+# PDF (binary)
+*.pdf
+
+# OS files
+.DS_Store
+Thumbs.db
